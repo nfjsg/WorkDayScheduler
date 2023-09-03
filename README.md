@@ -44,7 +44,8 @@ The Work Day Scheduler is a web-based application designed to help you plan and 
 
 ## Screenshots
 
-![Work Day Scheduler](screenshot.png)
+![Work Day Scheduler](IMG_7262.jpeg
+)
 
 ## Technologies Used
 
