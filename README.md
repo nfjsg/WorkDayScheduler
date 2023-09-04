@@ -47,6 +47,11 @@ The Work Day Scheduler is a web-based application designed to help you plan and 
 ![Work Day Scheduler](IMG_7262.jpeg
 )
 
+## Link to Deployed Application
+
+Include a link to the deployed version of your application.
+[deployed version of my application.](https://nfjsg.github.io/WorkDayScheduler/)
+
 ## Technologies Used
 
 - HTML5
