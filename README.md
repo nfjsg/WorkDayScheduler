@@ -8,6 +8,7 @@ A simple calendar application for scheduling your work day.
 - [Features](#features)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Link to Deployed Application](#Link to Deployed Application)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -49,7 +50,7 @@ The Work Day Scheduler is a web-based application designed to help you plan and 
 
 ## Link to Deployed Application
 
-Include a link to the deployed version of your application.
+
 [deployed version of my application.](https://nfjsg.github.io/WorkDayScheduler/)
 
 ## Technologies Used
